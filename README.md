@@ -1,7 +1,7 @@
 # RAG-Ollama
 Sistema Local de Perguntas e Respostas com RAG usando FAISS, Embeddings HuggingFace e Ollama
 
-# Instalações necessárias
+## Instalações necessárias
 
 ```diff
 python -m venv venv
